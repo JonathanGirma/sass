@@ -1,6 +1,7 @@
 # Functions
 
 ## Table of Contents
+# Thanks
 
 * [Definitions](#definitions)
   * [Special Number](#special-number)
